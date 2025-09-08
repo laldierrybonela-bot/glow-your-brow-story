@@ -90,6 +90,8 @@ export default {
         'gradient-gold': 'var(--gradient-gold)',
         'gradient-hero': 'var(--gradient-hero)',
         'gradient-primary': 'var(--gradient-primary)',
+        'gradient-whatsapp': 'var(--gradient-whatsapp)',
+        'gradient-instagram': 'var(--gradient-instagram)',
       },
       boxShadow: {
         'soft': 'var(--shadow-soft)',

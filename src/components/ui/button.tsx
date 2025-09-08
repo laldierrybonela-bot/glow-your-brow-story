@@ -16,6 +16,8 @@ const buttonVariants = cva(
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
         whatsapp: "bg-gradient-primary text-primary-foreground hover:shadow-elegant hover:scale-105 transition-all duration-300 font-semibold",
+        "whatsapp-original": "bg-gradient-whatsapp text-white hover:shadow-elegant hover:scale-105 transition-all duration-300 font-semibold",
+        "instagram-original": "bg-gradient-instagram text-white hover:shadow-elegant hover:scale-105 transition-all duration-300 font-semibold",
         elegant: "bg-gradient-gold text-foreground hover:shadow-gold hover:scale-105 transition-all duration-300 font-medium",
         "outline-rose": "border-2 border-rose-500 text-rose-500 hover:bg-rose-500/10 hover:border-rose-400 transition-all duration-300",
       },

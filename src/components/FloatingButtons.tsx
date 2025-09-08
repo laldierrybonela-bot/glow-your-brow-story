@@ -14,7 +14,7 @@ export default function FloatingButtons() {
     <div className="fixed right-6 bottom-6 z-50 flex flex-col gap-4">
       <Button
         size="lg"
-        variant="whatsapp"
+        variant="whatsapp-original"
         onClick={handleWhatsAppClick}
         className="w-16 h-16 rounded-full shadow-elegant hover:scale-110 transition-all duration-300"
       >
@@ -23,7 +23,7 @@ export default function FloatingButtons() {
       
       <Button
         size="lg"
-        variant="elegant"
+        variant="instagram-original"
         onClick={handleInstagramClick}
         className="w-16 h-16 rounded-full shadow-elegant hover:scale-110 transition-all duration-300"
       >
