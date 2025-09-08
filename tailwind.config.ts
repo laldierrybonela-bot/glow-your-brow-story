@@ -47,6 +47,28 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        rose: {
+          50: "hsl(var(--rose-50))",
+          100: "hsl(var(--rose-100))",
+          200: "hsl(var(--rose-200))",
+          300: "hsl(var(--rose-300))",
+          500: "hsl(var(--rose-500))",
+          600: "hsl(var(--rose-600))",
+          700: "hsl(var(--rose-700))",
+        },
+        gold: {
+          50: "hsl(var(--gold-50))",
+          100: "hsl(var(--gold-100))",
+          200: "hsl(var(--gold-200))",
+          400: "hsl(var(--gold-400))",
+          500: "hsl(var(--gold-500))",
+          600: "hsl(var(--gold-600))",
+        },
+        cream: {
+          50: "hsl(var(--cream-50))",
+          100: "hsl(var(--cream-100))",
+          200: "hsl(var(--cream-200))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
@@ -62,6 +84,17 @@ export default {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
+      },
+      backgroundImage: {
+        'gradient-rose': 'var(--gradient-rose)',
+        'gradient-gold': 'var(--gradient-gold)',
+        'gradient-hero': 'var(--gradient-hero)',
+        'gradient-primary': 'var(--gradient-primary)',
+      },
+      boxShadow: {
+        'soft': 'var(--shadow-soft)',
+        'elegant': 'var(--shadow-elegant)',
+        'gold': 'var(--shadow-gold)',
       },
       keyframes: {
         "accordion-down": {
