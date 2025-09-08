@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
-import { MessageCircle, Phone } from "lucide-react";
-import heroImage from "@/assets/hero-eyebrows.jpg";
+import { MessageCircle } from "lucide-react";
+import heroImage from "/lovable-uploads/10537da8-a009-4590-912c-5229a65403d9.png";
 
 export default function Hero() {
   const handleWhatsAppClick = () => {
@@ -32,7 +32,7 @@ export default function Hero() {
             Atendimento personalizado para mulheres que desejam autoestima elevada e um olhar marcante.
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <div className="flex justify-center">
             <Button 
               size="lg" 
               variant="whatsapp"
@@ -42,20 +42,7 @@ export default function Hero() {
               <MessageCircle className="w-5 h-5" />
               Agendar agora no WhatsApp
             </Button>
-            
-            <Button 
-              size="lg" 
-              variant="outline-rose"
-              className="text-lg px-8 py-6 h-auto"
-            >
-              <Phone className="w-5 h-5" />
-              Ligar agora
-            </Button>
           </div>
-          
-          <p className="text-sm text-muted-foreground mt-6">
-            ✨ Primeira consulta gratuita • Resultados garantidos
-          </p>
         </div>
       </div>
       

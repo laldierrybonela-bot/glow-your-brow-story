@@ -6,6 +6,7 @@ import About from "@/components/About";
 import SpecialOffer from "@/components/SpecialOffer";
 import FAQ from "@/components/FAQ";
 import Footer from "@/components/Footer";
+import FloatingButtons from "@/components/FloatingButtons";
 
 const Index = () => {
   return (
@@ -18,6 +19,7 @@ const Index = () => {
       <SpecialOffer />
       <FAQ />
       <Footer />
+      <FloatingButtons />
     </main>
   );
 };
