@@ -3,7 +3,7 @@ import { MessageCircle, Instagram, MapPin, Phone, Clock } from "lucide-react";
 
 export default function Footer() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/27997992612?text=Olá! Gostaria de agendar um horário.", "_blank");
+    window.open("https://wa.me/5527997992612?text=Olá! Gostaria de agendar um horário.", "_blank");
   };
 
   const handleInstagramClick = () => {
@@ -51,10 +51,10 @@ export default function Footer() {
             <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center mx-auto mb-4">
               <MapPin className="w-6 h-6 text-primary-foreground" />
             </div>
-            <h3 className="font-semibold text-background mb-2">Localização</h3>
+            <h3 className="font-semibold text-background mb-2">-20.3814573,-40.3118651</h3>
             <p className="text-background/80">
-              Rua das Flores, 123<br />
-              Vila Madalena, São Paulo - SP
+              Rua Itaboraí, 205<br />
+              Vila Velha - ES
             </p>
           </div>
           
@@ -64,8 +64,8 @@ export default function Footer() {
             </div>
             <h3 className="font-semibold text-background mb-2">Contato</h3>
             <p className="text-background/80">
-              (11) 99999-9999<br />
-              contato@karollynecardoso.com
+              (27) 99799-2612<br />
+              karollyne.cardoso.sobrancelha@gmail.com
             </p>
           </div>
           
