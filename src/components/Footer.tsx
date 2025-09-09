@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { MessageCircle, Instagram, MapPin, Phone, Clock } from "lucide-react";
 export default function Footer() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/552799792612?text=Olá! Gostaria de agendar um horário.", "_blank");
+    window.open("https://wa.me/5527997992612?text=Olá! Gostaria de agendar um horário.", "_blank");
   };
   const handleInstagramClick = () => {
     window.open("https://instagram.com/karol.sobrancelhas2", "_blank");
@@ -39,8 +39,8 @@ export default function Footer() {
             </div>
             <h3 className="font-semibold text-background mb-2">Localização</h3>
             <p className="text-background/80">
-              Rua das Flores, 123<br />
-              Vila Madalena, São Paulo - SP
+              R. Itaboraí, 205<br />
+              Praia de Itaparica, Vila Velha - ES
             </p>
           </div>
           

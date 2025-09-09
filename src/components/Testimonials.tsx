@@ -5,7 +5,7 @@ const testimonials = [
     id: 1,
     name: "Maria Silva",
     initials: "M.S.",
-    text: "Simplesmente perfeito! Karollyne transformou completamente minhas sobrancelhas. O resultado ficou muito natural e exatamente como eu queria.",
+    text: "Simplesmente perfeito! A Karol transformou completamente minhas sobrancelhas. O resultado ficou muito natural e exatamente como eu queria.",
     rating: 5
   },
   {
@@ -26,7 +26,7 @@ const testimonials = [
     id: 4,
     name: "Juliana Lima",
     initials: "J.L.",
-    text: "Karollyne é uma artista! Entendeu exatamente o que eu queria e superou minhas expectativas. Atendimento nota 10!",
+    text: "A Karol é uma artista! Entendeu exatamente o que eu queria e superou minhas expectativas. Atendimento nota 10!",
     rating: 5
   }
 ];
