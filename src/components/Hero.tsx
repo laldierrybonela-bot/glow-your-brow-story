@@ -4,7 +4,7 @@ import heroImage from "/lovable-uploads/10537da8-a009-4590-912c-5229a65403d9.png
 
 export default function Hero() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999?text=Olá! Gostaria de agendar um horário para design de sobrancelhas.", "_blank");
+    window.open("https://wa.me/27998992612?text=Olá! Gostaria de agendar um horário para design de sobrancelhas.", "_blank");
   };
 
   return (

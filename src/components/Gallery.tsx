@@ -66,12 +66,12 @@ export default function Gallery() {
             Quer ver mais resultados? Siga nosso Instagram!
           </p>
           <a 
-            href="https://instagram.com/karollyne.cardoso" 
+            href="https://instagram.com/karol.sobrancelhas2" 
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-primary hover:text-primary/80 font-medium transition-colors"
           >
-            @karollyne.cardoso
+            @karol.sobrancelhas2
             <span className="text-gold-400">✨</span>
           </a>
         </div>
