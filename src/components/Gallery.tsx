@@ -1,6 +1,9 @@
 import beforeAfter1 from "@/assets/before-after-1.jpg";
 import beforeAfter2 from "@/assets/before-after-2.jpg";
 import beforeAfter3 from "@/assets/before-after-3.jpg";
+import beforeAfter4 from "@/src/components/Combo completo ♥️ Brow Lamination + Cílios Look Francês + Spa dos Lábios #sobrancelhas #henna #b.mp4"
+import beforeAfter5 from "@src/components/Isso é Microooooo 😍😮_💨🤌🏼 Pigmento da @diamondpigments ! O melhor do mercado! Dermografo e a.mp4"
+import beforeAfter5 from "@src/components/Parece Henna, mas é Micro!✨Imagina acordar com as sobrancelhas prontas todos os dias Sim é possí.mp4"
 
 const galleryImages = [
   {
