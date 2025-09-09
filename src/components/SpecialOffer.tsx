@@ -16,7 +16,8 @@ export default function SpecialOffer() {
           
           <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-8 mb-8 shadow-elegant">
             <p className="text-xl md:text-2xl text-primary-foreground font-semibold mb-4">
-              Ganhe 1 sessão de retoque <span className="text-gold-200">GRÁTIS!</span>
+              Ganhe 1 sessão de retoque <span className="text-gold-200">GRÁTIS!
+            </span>
             </p>
             <p className="text-primary-foreground/90 mb-6">
               Investimento completo por apenas <span className="text-2xl font-bold text-gold-200">R$ 600</span>
