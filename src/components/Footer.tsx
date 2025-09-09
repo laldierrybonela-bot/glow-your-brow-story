@@ -1,17 +1,13 @@
 import { Button } from "@/components/ui/button";
 import { MessageCircle, Instagram, MapPin, Phone, Clock } from "lucide-react";
-
 export default function Footer() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5527997992612?text=Olá! Gostaria de agendar um horário.", "_blank");
+    window.open("https://wa.me/5511999999999?text=Olá! Gostaria de agendar um horário.", "_blank");
   };
-
   const handleInstagramClick = () => {
-    window.open("https://www.instagram.com/karol.sobrancelhas2/", "_blank");
+    window.open("https://instagram.com/karollyne.cardoso", "_blank");
   };
-
-  return (
-    <footer className="bg-foreground text-background py-16">
+  return <footer className="bg-foreground text-background py-16">
       <div className="container mx-auto px-6">
         {/* Main CTA Section */}
         <div className="text-center mb-16">
@@ -23,22 +19,12 @@ export default function Footer() {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button 
-              size="lg" 
-              variant="elegant"
-              onClick={handleWhatsAppClick}
-              className="text-lg px-8 py-6 h-auto"
-            >
+            <Button size="lg" variant="elegant" onClick={handleWhatsAppClick} className="text-lg px-8 py-6 h-auto">
               <MessageCircle className="w-5 h-5" />
               Agendar no WhatsApp
             </Button>
             
-            <Button 
-              size="lg" 
-              variant="outline-rose"
-              onClick={handleInstagramClick}
-              className="text-lg px-8 py-6 h-auto border-background/20 text-background hover:bg-background/10"
-            >
+            <Button size="lg" variant="outline-rose" onClick={handleInstagramClick} className="text-lg px-8 py-6 h-auto border-background/20 text-background hover:bg-background/10">
               <Instagram className="w-5 h-5" />
               Seguir no Instagram
             </Button>
@@ -51,10 +37,10 @@ export default function Footer() {
             <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center mx-auto mb-4">
               <MapPin className="w-6 h-6 text-primary-foreground" />
             </div>
-            <h3 className="font-semibold text-background mb-2">-20.3814573,-40.3118651</h3>
+            <h3 className="font-semibold text-background mb-2">https://maps.app.goo.gl/Rt2MmNXCvcjHknxo6</h3>
             <p className="text-background/80">
-              Rua Itaboraí, 205<br />
-              Vila Velha - ES
+              Rua das Flores, 123<br />
+              Vila Madalena, São Paulo - SP
             </p>
           </div>
           
@@ -64,8 +50,8 @@ export default function Footer() {
             </div>
             <h3 className="font-semibold text-background mb-2">Contato</h3>
             <p className="text-background/80">
-              (27) 99799-2612<br />
-              karollyne.cardoso.sobrancelha@gmail.com
+              (11) 99999-9999<br />
+              contato@karollynecardoso.com
             </p>
           </div>
           
@@ -85,16 +71,10 @@ export default function Footer() {
         <div className="text-center mb-8">
           <h3 className="font-semibold text-background mb-4">Siga-nos nas redes sociais</h3>
           <div className="flex justify-center gap-4">
-            <button 
-              onClick={handleInstagramClick}
-              className="w-10 h-10 bg-primary rounded-full flex items-center justify-center hover:bg-primary/80 transition-colors"
-            >
+            <button onClick={handleInstagramClick} className="w-10 h-10 bg-primary rounded-full flex items-center justify-center hover:bg-primary/80 transition-colors">
               <Instagram className="w-5 h-5 text-primary-foreground" />
             </button>
-            <button 
-              onClick={handleWhatsAppClick}
-              className="w-10 h-10 bg-primary rounded-full flex items-center justify-center hover:bg-primary/80 transition-colors"
-            >
+            <button onClick={handleWhatsAppClick} className="w-10 h-10 bg-primary rounded-full flex items-center justify-center hover:bg-primary/80 transition-colors">
               <MessageCircle className="w-5 h-5 text-primary-foreground" />
             </button>
           </div>
@@ -107,6 +87,5 @@ export default function Footer() {
           </p>
         </div>
       </div>
-    </footer>
-  );
+    </footer>;
 }
