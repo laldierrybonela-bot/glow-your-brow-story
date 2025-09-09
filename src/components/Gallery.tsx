@@ -1,9 +1,6 @@
 import beforeAfter1 from "@/assets/Combo-completo.mp4";
 import beforeAfter2 from "@/assets/Micro1.mp4";
 import beforeAfter3 from "@/assets/Micro2.mp4";
-\Combo-completo.mp4
-\Micro1.mp4
-\Micro2.mp4
 
 const galleryImages = [
   {
