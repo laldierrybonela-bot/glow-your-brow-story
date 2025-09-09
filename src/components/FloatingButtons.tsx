@@ -3,7 +3,7 @@ import { MessageCircle } from "lucide-react";
 
 export default function FloatingButtons() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/27998992612?text=Olá! Gostaria de agendar um horário para design de sobrancelhas.", "_blank");
+    window.open("https://wa.me/5527997992612?text=Olá! Gostaria de agendar um horário para design de sobrancelhas.", "_blank");
   };
 
   const handleInstagramClick = () => {
