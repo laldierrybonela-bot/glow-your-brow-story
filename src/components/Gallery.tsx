@@ -6,17 +6,17 @@ const galleryImages = [
   {
     id: 1,
     src: beforeAfter1,
-    alt: "Antes e depois - Micropigmentação de sobrancelhas 1"
+    alt: "Antes e depois - Micropigmentação 1"
   },
   {
     id: 2,
     src: beforeAfter2,
-    alt: "Antes e depois - Design de sobrancelhas 2"
+    alt: "Antes e depois - Micropigmentação 2"
   },
   {
     id: 3,
     src: beforeAfter3,
-    alt: "Antes e depois - Transformação de sobrancelhas 3"
+    alt: "Antes e depois - Micropigmentação 3"
   }
 ];
 
