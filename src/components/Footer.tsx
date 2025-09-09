@@ -2,10 +2,10 @@ import { Button } from "@/components/ui/button";
 import { MessageCircle, Instagram, MapPin, Phone, Clock } from "lucide-react";
 export default function Footer() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999?text=Olá! Gostaria de agendar um horário.", "_blank");
+    window.open("https://wa.me/552799792612?text=Olá! Gostaria de agendar um horário.", "_blank");
   };
   const handleInstagramClick = () => {
-    window.open("https://instagram.com/karollyne.cardoso", "_blank");
+    window.open("https://instagram.com/karol.sobrancelhas2", "_blank");
   };
   return <footer className="bg-foreground text-background py-16">
       <div className="container mx-auto px-6">
@@ -37,7 +37,7 @@ export default function Footer() {
             <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center mx-auto mb-4">
               <MapPin className="w-6 h-6 text-primary-foreground" />
             </div>
-            <h3 className="font-semibold text-background mb-2">onClick={https://maps.app.goo.gl/Rt2MmNXCvcjHknxo6}</h3>
+            <h3 className="font-semibold text-background mb-2"> onClick={https://maps.app.goo.gl/Rt2MmNXCvcjHknxo6} </h3>
             <p className="text-background/80">
               Rua das Flores, 123<br />
               Vila Madalena, São Paulo - SP
