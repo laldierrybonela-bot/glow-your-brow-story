@@ -3,7 +3,7 @@ import { MessageCircle, Instagram, MapPin, Phone, Clock } from "lucide-react";
 
 export default function Footer() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999?text=Olá! Gostaria de agendar um horário.", "_blank");
+    window.open("https://wa.me/27997992612?text=Olá! Gostaria de agendar um horário.", "_blank");
   };
 
   const handleInstagramClick = () => {
