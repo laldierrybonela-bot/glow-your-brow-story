@@ -7,7 +7,7 @@ export default function Footer() {
   };
 
   const handleInstagramClick = () => {
-    window.open("https://instagram.com/karollyne.cardoso", "_blank");
+    window.open("https://www.instagram.com/karol.sobrancelhas2/", "_blank");
   };
 
   return (
