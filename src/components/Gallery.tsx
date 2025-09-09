@@ -1,6 +1,6 @@
-import beforeAfter1 from "@/assets/before-after-1.jpg";
-import beforeAfter2 from "@/assets/before-after-2.jpg";
-import beforeAfter3 from "@/assets/before-after-3.jpg";
+import beforeAfter1 from "@/assets/Combo-completo.mp4";
+import beforeAfter2 from "@/assets/Micro1.mp4";
+import beforeAfter3 from "@/assets/Micro2.mp4";
 
 const galleryImages = [
   {
