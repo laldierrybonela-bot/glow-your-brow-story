@@ -37,7 +37,7 @@ export default function Footer() {
             <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center mx-auto mb-4">
               <MapPin className="w-6 h-6 text-primary-foreground" />
             </div>
-            <h3 className="font-semibold text-background mb-2"> onClick={https://maps.app.goo.gl/Rt2MmNXCvcjHknxo6} </h3>
+            <h3 className="font-semibold text-background mb-2">Localização</h3>
             <p className="text-background/80">
               Rua das Flores, 123<br />
               Vila Madalena, São Paulo - SP
@@ -52,6 +52,7 @@ export default function Footer() {
             <p className="text-background/80">
               (27) 99799-2612<br />
               karollyne.cardoso.sobrancelha@gmail.com
+            </p>
           </div>
           
           <div className="text-center">
