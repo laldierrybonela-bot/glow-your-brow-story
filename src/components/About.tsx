@@ -3,7 +3,7 @@ import { Award, Users, Clock } from "lucide-react";
 
 export default function About() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999?text=Olá! Gostaria de conhecer mais sobre seus serviços.", "_blank");
+    window.open("https://wa.me/5527997992612?text=Olá! Gostaria de conhecer mais sobre seus serviços.", "_blank");
   };
 
   return (
