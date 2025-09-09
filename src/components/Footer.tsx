@@ -61,8 +61,8 @@ export default function Footer() {
             </div>
             <h3 className="font-semibold text-background mb-2">Horário</h3>
             <p className="text-background/80">
-              Segunda à Sexta: 9h às 18h<br />
-              Sábado: 9h às 15h
+              Atendimento com horário marcado<br />
+            
             </p>
           </div>
         </div>
