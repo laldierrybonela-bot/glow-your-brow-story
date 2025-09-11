@@ -16,11 +16,11 @@ export default function SpecialOffer() {
           
           <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-8 mb-8 shadow-elegant">
             <p className="text-xl md:text-2xl text-primary-foreground font-semibold mb-4">
-              Ganhe 1 sessão de retoque <span className="text-gold-200">GRÁTIS!
+              Ganhe um SPA labial + buço <span className="text-gold-200">GRÁTIS!
             </span>
             </p>
             <p className="text-primary-foreground/90 mb-6">
-              Investimento completo por apenas <span className="text-2xl font-bold text-gold-200">R$ 600</span>
+              Investimento completo por apenas <span className="text-2xl font-bold text-gold-200">R$ 550,00</span>
             </p>
             <ul className="text-primary-foreground/90 space-y-2 mb-6">
               <li>✨ Micropigmentação completa</li>
