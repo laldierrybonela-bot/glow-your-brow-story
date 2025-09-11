@@ -51,7 +51,7 @@ export default function Footer() {
             <h3 className="font-semibold text-background mb-2">Contato</h3>
             <p className="text-background/80">
               (27) 99799-2612<br />
-              karollyne.cardoso.sobrancelha@gmail.com
+              karolbonela@gmail.com
             </p>
           </div>
           
