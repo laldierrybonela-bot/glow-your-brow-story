@@ -41,7 +41,7 @@ export default function About() {
               
               <div className="text-center p-4 bg-gradient-rose rounded-xl">
                 <Clock className="w-8 h-8 text-primary mx-auto mb-2" />
-                <p className="font-semibold text-foreground">3+ Anos</p>
+                <p className="font-semibold text-foreground">2+ Anos</p>
                 <p className="text-sm text-muted-foreground">De experiência</p>
               </div>
             </div>

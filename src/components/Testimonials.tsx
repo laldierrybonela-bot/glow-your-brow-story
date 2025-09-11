@@ -3,22 +3,22 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     id: 1,
-    name: "Maria Silva",
-    initials: "M.S.",
+    name: "Larissa Silva",
+    initials: "L.S.",
     text: "Simplesmente perfeito! A Karol transformou completamente minhas sobrancelhas. O resultado ficou muito natural e exatamente como eu queria.",
     rating: 5
   },
   {
     id: 2,
-    name: "Ana Beatriz",
-    initials: "A.B.",
+    name: "Luiza Dias",
+    initials: "L.D.",
     text: "Profissional incrível! Ambiente super limpo e acolhedor. Recomendo para todas as amigas. Não dói nada e o resultado é maravilhoso!",
     rating: 5
   },
   {
     id: 3,
-    name: "Carla Santos",
-    initials: "C.S.",
+    name: "Michelle Santos",
+    initials: "M.S.",
     text: "Minha autoestima mudou completamente! Agora acordo com as sobrancelhas perfeitas todos os dias. Melhor investimento que já fiz.",
     rating: 5
   },
@@ -40,7 +40,7 @@ export default function Testimonials() {
             O que nossas clientes dizem
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Centenas de mulheres já transformaram sua autoestima conosco
+            "Estamos compartilhando mais feedbacks incríveis no Instagram. Venha conferir e se inspirar com quem já viveu essa experiência!"
           </p>
         </div>
         
