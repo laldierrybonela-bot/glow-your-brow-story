@@ -17,11 +17,12 @@ export default function About() {
             
             <div className="prose prose-lg text-muted-foreground mb-8">
               <p className="text-lg leading-relaxed mb-4">
-                Sou <span className="text-primary font-semibold">Karollyne Cardoso</span>, especialista em design e micropigmentação de sobrancelhas. Já ajudei centenas de mulheres a se sentirem mais confiantes e seguras com técnicas modernas, seguras e naturais.
+                Sou <span className="text-primary font-semibold">Karollyne Cardoso</span>. Tenho 31 anos, sou mãe, esposa e especialista em sobrancelhas. Minha jornada começou em 2021, quando, incentivada pela minha sogra, realizei meu primeiro curso. Na época, trabalhava CLT durante a semana e atendia aos sábados no salão dela. Foi nesse período que descobri minha verdadeira paixão: realçar a beleza e autoestima através do olhar.
+                Em 2023, após a maternidade, decidi me dedicar totalmente à área, buscando a liberdade de agenda e a realização pessoal que só esse trabalho poderia me oferecer. Já em 2024, concluí minha formação como micropigmentadora, ampliando ainda mais minhas técnicas e resultados.
               </p>
               
               <p className="text-lg leading-relaxed">
-                Minha missão é valorizar a sua beleza de forma única e personalizada, sempre respeitando o formato do seu rosto e suas características naturais.
+                Hoje, sou referência no bairro onde atuo, reconhecida pelo cuidado, pelo olhar detalhista e pelo desejo constante de entregar um trabalho diferenciado a cada cliente que confia em mim. Conciliando maternidade e profissão, sigo diariamente fazendo o que amo: transformar sobrancelhas e elevar autoestima.
               </p>
             </div>
             
