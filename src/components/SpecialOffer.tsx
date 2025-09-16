@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Gift, MessageCircle } from "lucide-react";
 export default function SpecialOffer() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5527997992612?text=Olá! Quero aproveitar a oferta especial de micropigmentação com retoque grátis!", "_blank");
+    window.open("https://wa.me/5527988121512?text=Olá! Quero aproveitar a oferta especial de micropigmentação com retoque grátis!", "_blank");
   };
   return <section className="py-20 bg-gradient-primary relative overflow-hidden">
       <div className="container mx-auto px-6 relative z-10">
