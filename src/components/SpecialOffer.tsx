@@ -9,18 +9,24 @@ export default function SpecialOffer() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-sm rounded-full px-4 py-2 mb-6">
             <Gift className="w-5 h-5 text-primary-foreground" />
-            <span className="text-primary-foreground font-medium">Oferta Especial</span>
+            <span className="text-primary-foreground font-medium">Nossos Serviços</span>
           </div>
           
-          <h2 className="text-3xl md:text-5xl font-bold text-primary-foreground mb-6">Agende hoje sua Micropigmentação</h2>
+          <h2 className="text-3xl md:text-5xl font-bold text-primary-foreground mb-6">Agende hoje seu Procedimento</h2>
           
           <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-8 mb-8 shadow-elegant">
             <p className="text-xl md:text-2xl text-primary-foreground font-semibold mb-4">
-              Ganhe um SPA labial + buço <span className="text-gold-200">GRÁTIS!
+              * Design simples
+              * Design com Henna
+              * Brow Lamination
+              * Cílios Look Francês
+              * Spa dos Lábios
+              * Buço
+              * Micropigmentação <span
             </span>
             </p>
             <p className="text-primary-foreground/90 mb-6">
-              Investimento completo por apenas <span className="text-2xl font-bold text-gold-200">R$ 550,00</span>
+              Micropigmentação <span className="text-2xl font-bold text-gold-200">R$ 450,00</span>
             </p>
             <ul className="text-primary-foreground/90 space-y-2 mb-6">
               <li>✨ Micropigmentação completa</li>
