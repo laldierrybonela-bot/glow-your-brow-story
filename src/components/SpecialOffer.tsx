@@ -21,8 +21,7 @@ export default function SpecialOffer() {
               * Brow Lamination
               * Cílios Look Francês
               * Spa dos Lábios
-              * Buço
-              * Micropigmentação <span
+              * Buço <span className="text-gold-200">Micropigmentação
             </span>
             </p>
             <p className="text-primary-foreground/90 mb-6">
