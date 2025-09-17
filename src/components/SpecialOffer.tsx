@@ -16,7 +16,7 @@ export default function SpecialOffer() {
           
           <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-8 mb-8 shadow-elegant">
           {/* Lista de serviços */}
-            <ul className="text-xl md:text-2xl text-primary-foreground font-semibold mb-6 space-y-2">
+          <ul className="text-xl md:text-2xl text-primary-foreground font-semibold mb-6 space-y-2">
               <li>✨ Design simples</li> 
               <li>✨ Design com Henna</li>
               <li>✨ Brow Lamination</li>
@@ -24,26 +24,26 @@ export default function SpecialOffer() {
               <li>✨ Spa dos Lábios</li>
               <li>✨ Buço</li>
               <li>✨ Micropigmentação</li> 
-            </ul>
-            {/* OFERTA ESPECIAL */}
-            <div className="bg-gold-100/10 border-l-4 border-gold-200 pl-4 py-4 rounded-lg mb-6"></div>
+          </ul>
+          {/* OFERTA ESPECIAL */}
+          <div className="bg-gold-100/10 border-l-4 border-gold-200 pl-4 py-4 rounded-lg mb-6"></div>
             <h3 className="text-xl md:text-2xl font-bold text-gold-200 mb-2"></h3>
-            🌟 Oferta Especial
+              🌟 Oferta Especial
             </h3>
             <p className="text-primary-foreground/90 text-lg">
             <span className="font-bold">Micropigmentação</span>{' '}
             <span className="text-2xl font-bold text-gold-200">R$ 450,00</span>
             </p>
-            </div>
+          </div>
 
-            {/* Benefícios */}
-            <ul className="text-primary-foreground/90 text-base md:text-lg space-y-2 mb-2">
+          {/* Benefícios */}
+          <ul className="text-primary-foreground/90 text-base md:text-lg space-y-2 mb-2">
               <li>✨ Micropigmentação completa</li>
               <li>✨ Retoque após 30 dias incluso</li>
               <li>✨ Acompanhamento pós-procedimento</li>
               <li>✨ Garantia de satisfação</li>
-            </ul>
-          </div>
+          </ul>
+        </div>
           
           <Button size="lg" variant="elegant" onClick={handleWhatsAppClick} className="text-lg px-8 py-6 h-auto mb-4">
             <MessageCircle className="w-5 h-5" />
