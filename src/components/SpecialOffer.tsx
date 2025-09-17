@@ -15,6 +15,7 @@ export default function SpecialOffer() {
           <h2 className="text-3xl md:text-5xl font-bold text-primary-foreground mb-6">Agende hoje seu Procedimento</h2>
           
           <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-8 mb-8 shadow-elegant">
+          {/* Lista de serviços */}
             <ul className="text-xl md:text-2xl text-primary-foreground font-semibold mb-6 space-y-2">
               <li>✨ Design simples</li> 
               <li>✨ Design com Henna</li>
