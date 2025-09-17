@@ -15,20 +15,28 @@ export default function SpecialOffer() {
           <h2 className="text-3xl md:text-5xl font-bold text-primary-foreground mb-6">Agende hoje seu Procedimento</h2>
           
           <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-8 mb-8 shadow-elegant">
-            <ul className="text-xl md:text-2xl text-primary-foreground font-semibold mb-4">
-              <li>✨Design simples</li> 
-              <li>✨Design com Henna</li>
-              <li>✨Brow Lamination</li>
-              <li>✨Cílios Look Francês</li>
-              <li>✨Spa dos Lábios</li>
-              <li>✨Buço</li>
-              <li>✨Micropigmentação</li> 
+            <ul className="text-xl md:text-2xl text-primary-foreground font-semibold mb-6 space-y-2">
+              <li>✨ Design simples</li> 
+              <li>✨ Design com Henna</li>
+              <li>✨ Brow Lamination</li>
+              <li>✨ Cílios Look Francês</li>
+              <li>✨ Spa dos Lábios</li>
+              <li>✨ Buço</li>
+              <li>✨ Micropigmentação</li> 
             </ul>
-            <p className="text-primary-foreground/90 mb-6">
+            {/* OFERTA ESPECIAL */}
+            <div className="bg-gold-100/10 border-l-4 border-gold-200 pl-4 py-4 rounded-lg mb-6"></div>
+            <h3 className="text-xl md:text-2xl font-bold text-gold-200 mb-2"></h3>
+            🌟 Oferta Especial
+            </h3>
+            <p className="text-primary-foreground/90 text-lg">
             <span className="font-bold">Micropigmentação</span>{' '}
             <span className="text-2xl font-bold text-gold-200">R$ 450,00</span>
             </p>
-            <ul className="text-primary-foreground/90 space-y-2 mb-6">
+            </div>
+
+            {/* Benefícios */}
+            <ul className="text-primary-foreground/90 text-base md:text-lg space-y-2 mb-2">
               <li>✨ Micropigmentação completa</li>
               <li>✨ Retoque após 30 dias incluso</li>
               <li>✨ Acompanhamento pós-procedimento</li>
