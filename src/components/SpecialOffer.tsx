@@ -15,17 +15,18 @@ export default function SpecialOffer() {
           <h2 className="text-3xl md:text-5xl font-bold text-primary-foreground mb-6">Agende hoje seu Procedimento</h2>
           
           <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-8 mb-8 shadow-elegant">
-            <p className="text-xl md:text-2xl text-primary-foreground font-semibold mb-4">
-              * Design simples
-              * Design com Henna
-              * Brow Lamination
-              * Cílios Look Francês
-              * Spa dos Lábios
-              * Buço <span className="text-gold-200">Micropigmentação
-            </span>
-            </p>
+            <ul className="text-xl md:text-2xl text-primary-foreground font-semibold mb-4">
+              <li>✨Design simples</li> 
+              <li>✨Design com Henna</li>
+              <li>✨Brow Lamination</li>
+              <li>✨Cílios Look Francês</li>
+              <li>✨Spa dos Lábios</li>
+              <li>✨Buço</li>
+              <li>✨Micropigmentação</li> 
+            </ul>
             <p className="text-primary-foreground/90 mb-6">
-              Micropigmentação <span className="text-2xl font-bold text-gold-200">R$ 450,00</span>
+            <span className="font-bold">Micropigmentação</span>{' '}
+            <span className="text-2xl font-bold text-gold-200">R$ 450,00</span>
             </p>
             <ul className="text-primary-foreground/90 space-y-2 mb-6">
               <li>✨ Micropigmentação completa</li>
