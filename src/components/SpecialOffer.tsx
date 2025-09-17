@@ -28,20 +28,19 @@ export default function SpecialOffer() {
           {/* OFERTA ESPECIAL */}
           <div className="bg-gold-100/10 border-l-4 border-gold-200 pl-4 py-4 rounded-lg mb-6">
             <h3 className="text-xl md:text-2xl font-bold text-gold-200 mb-2">
-              🌟 Oferta Especial
+              🌟 OFERTA ESPECIAL
             </h3>
             <p className="text-primary-foreground/90 text-lg">
-            <span className="font-bold">Micropigmentação</span>{' '}
+            <span className="font-bold">MICROPIGMENTAÇÃO</span>{' '}
             <span className="text-2xl font-bold text-gold-200">R$ 450,00</span>
             </p>
           </div>
 
           {/* Benefícios */}
           <ul className="text-primary-foreground/90 text-base md:text-lg space-y-2 mb-2">
-              <li>✨ Micropigmentação completa</li>
               <li>✨ Retoque após 30 dias incluso</li>
+              <li>✨ Duração média de 1 ano</li>
               <li>✨ Acompanhamento pós-procedimento</li>
-              <li>✨ Garantia de satisfação</li>
           </ul>
         </div>
           
