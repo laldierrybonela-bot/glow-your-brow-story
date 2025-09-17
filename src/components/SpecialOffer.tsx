@@ -17,13 +17,13 @@ export default function SpecialOffer() {
           <div className="bg-white/15 backdrop-blur-sm rounded-2xl p-8 mb-8 shadow-elegant">
           {/* Lista de serviços */}
           <ul className="text-xl md:text-2xl text-primary-foreground font-semibold mb-6 space-y-2">
+              <li>✨ Micropigmentação</li>
               <li>✨ Design simples</li> 
               <li>✨ Design com Henna</li>
               <li>✨ Brow Lamination</li>
               <li>✨ Cílios Look Francês</li>
               <li>✨ Spa dos Lábios</li>
-              <li>✨ Buço</li>
-              <li>✨ Micropigmentação</li> 
+              <li>✨ Buço</li> 
           </ul>
           {/* OFERTA ESPECIAL */}
           <div className="bg-gold-100/10 border-l-4 border-gold-200 pl-4 py-4 rounded-lg mb-6">
