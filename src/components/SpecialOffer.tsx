@@ -26,8 +26,8 @@ export default function SpecialOffer() {
               <li>✨ Micropigmentação</li> 
           </ul>
           {/* OFERTA ESPECIAL */}
-          <div className="bg-gold-100/10 border-l-4 border-gold-200 pl-4 py-4 rounded-lg mb-6"></div>
-            <h3 className="text-xl md:text-2xl font-bold text-gold-200 mb-2"></h3>
+          <div className="bg-gold-100/10 border-l-4 border-gold-200 pl-4 py-4 rounded-lg mb-6">
+            <h3 className="text-xl md:text-2xl font-bold text-gold-200 mb-2">
               🌟 Oferta Especial
             </h3>
             <p className="text-primary-foreground/90 text-lg">
