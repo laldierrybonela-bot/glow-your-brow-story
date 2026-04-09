@@ -39,8 +39,8 @@ export default function Footer() {
             </div>
             <h3 className="font-semibold text-background mb-2">Localização</h3>
             <p className="text-background/80">
-              R. Itaboraí, 205<br />
-              Praia de Itaparica, Vila Velha - ES
+              R. Celestino de Almeida, 519<br />
+              Castelo Branco, Cariacica - ES
             </p>
           </div>
           
