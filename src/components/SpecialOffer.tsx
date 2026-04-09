@@ -33,7 +33,7 @@ export default function SpecialOffer() {
             </h3>
             <p className="text-primary-foreground/90 text-lg">
             <span className="font-bold">MICROPIGMENTAÇÃO</span>{' '}
-            <span className="text-2xl font-bold text-gold-200">   R$ 500,00</span>
+            <span className="text-2xl font-bold text-gold-200">    R$ 500,00</span>
             </p>
           </div>
           {/* Benefícios */}
