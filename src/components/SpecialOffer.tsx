@@ -22,6 +22,7 @@ export default function SpecialOffer() {
               <li>✨ Design com Henna</li>
               <li>✨ Brow Lamination</li>
               <li>✨ Cílios Look Francês</li>
+              <li>✨ Tintura de Sobrancelhas</li>
               <li>✨ Spa dos Lábios</li>
               <li>✨ Buço</li> 
           </ul>
