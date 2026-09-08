@@ -59,7 +59,7 @@ export default function About() {
           <div className="relative">
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-elegant">
               <img 
-                src="/lovable-uploads/d8a056a1-a551-49d1-81c3-f26f8df46fb9.png"
+                src="/lovable-uploads/WhatsApp Image 2026-09-08 at 16.07.30.jpeg"
                 alt="Karollyne Cardoso - Designer de Sobrancelhas"
                 className="w-full h-auto object-cover"
               />
